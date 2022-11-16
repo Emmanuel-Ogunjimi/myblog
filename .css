@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    display: flex;
+}
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    grid-template-rows: auto;
+    
+}
