@@ -1,0 +1,28 @@
+
+body{
+    background-color: bisque;
+    display: grid;
+    display: inline;
+}
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0%;
+    
+}
+
+ul{
+    text-align: center;
+    padding-inline: 12px;
+    margin: auto;
+}
+
+:hover{
+    background-color: rgba(184, 149, 108, 0.911);
+}
+
+button{
+    border-radius: 13px;
+}
